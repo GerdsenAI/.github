@@ -21,17 +21,21 @@
 ---
 
 ### 🔧 Currently Working On
-
-*This section will be automatically updated with recent contributions*
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 ### 🚀 Latest Projects
-
-*This section will be automatically updated with latest projects*
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
 
 ### 🔀 Recent Pull Requests
-
-*This section will be automatically updated with recent pull requests*
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 
 ### ⭐ Recent Stars
-
-*This section will be automatically updated with recent stars*
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
