@@ -21,6 +21,9 @@ jobs:
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
+          # Using PERSONAL_ACCESS_TOKEN instead of GITHUB_TOKEN
+          # The recentContributions function requires a personal access token
+          # because it needs to access user activity, which is not available to the github-actions bot
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           template: 'README.gtpl'
