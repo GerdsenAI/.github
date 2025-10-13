@@ -21,7 +21,7 @@
 ---
 
 ### 🔧 Currently Working On
-{{ range recentContributions 5 }}
+{{ range recentContributions 5 "GerdsenAI-Admin" }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
