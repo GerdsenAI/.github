@@ -11,7 +11,7 @@ This repository contains the automated README setup for the GerdsenAI GitHub org
 ## How It Works
 
 The GitHub Actions workflow runs:
-1. **Daily** at midnight (UTC)
+1. **Weekly** on Sundays at midnight (UTC)
 2. **On push** to the main branch
 3. **Manually** via workflow_dispatch
 
@@ -37,6 +37,7 @@ To customize the README:
 
 ✅ Professional dual-theme compatible emojis  
 ✅ Clean, minimal design  
-✅ Automated daily updates  
+✅ Automated weekly updates  
 ✅ GitHub Actions integration  
 ✅ No external social media links  
+✅ Profile statistics include private repositories  
