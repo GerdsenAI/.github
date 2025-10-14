@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Welcome to GerdsenAI
+# Welcome to GerdsenAI
 
 ### *Pioneering Artificial Intelligence Solutions*
 
@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 About Us
+## About Us
 
 GerdsenAI is dedicated to developing cutting-edge artificial intelligence solutions that empower businesses and developers. We focus on creating intelligent systems that are efficient, scalable, and accessible.
 
-### 💡 Our Mission
+### Our Mission
 
 To democratize AI technology by building open-source tools and frameworks that make advanced machine learning accessible to everyone.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 
@@ -46,7 +46,7 @@ To democratize AI technology by building open-source tools and frameworks that m
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -60,7 +60,7 @@ To democratize AI technology by building open-source tools and frameworks that m
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -75,18 +75,6 @@ To democratize AI technology by building open-source tools and frameworks that m
 
 ---
 
-## 🤝 Get Involved
-
-We're always looking for passionate developers, researchers, and contributors to join our community!
-
-### Ways to Contribute:
-
-- 🐛 **Report Bugs**: Help us improve by reporting issues
-- 💡 **Suggest Features**: Share your ideas for new features
-- 🔧 **Submit PRs**: Contribute code improvements
-- 📖 **Improve Docs**: Help us maintain clear documentation
-- ⭐ **Star Projects**: Show your support by starring our repos
-
 ### Getting Started:
 
 1. Browse our [repositories](https://github.com/orgs/GerdsenAI/repositories)
@@ -96,7 +84,7 @@ We're always looking for passionate developers, researchers, and contributors to
 
 ---
 
-## 📬 Contact Us
+## Contact Us
 
 <div align="center">
 
