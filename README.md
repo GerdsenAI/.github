@@ -22,9 +22,9 @@
 
 ### 🔧 Currently Working On
 
+- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
 - [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
 - [GerdsenAI/GerdsenAI_AutoCoder](https://github.com/GerdsenAI/GerdsenAI_AutoCoder) - 
-- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
 - [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
 - [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
 
