@@ -22,11 +22,11 @@
 
 ### 🔧 Currently Working On
 
-- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
-- [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
+- [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
+- [GerdsenAI/AI-SDR](https://github.com/GerdsenAI/AI-SDR) - 
+- [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server) - Apple Silicon optimized Local LLM Server
 - [GerdsenAI/GerdsenAI_AutoCoder](https://github.com/GerdsenAI/GerdsenAI_AutoCoder) - 
-- [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
-- [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
+- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
 
 ### 🚀 Latest Projects
 
@@ -34,11 +34,12 @@
 
 ### 🔀 Recent Pull Requests
 
-- [Chore/cleanup](https://github.com/GerdsenAI/GerdsenAI_AutoCoder/pull/77) on [GerdsenAI/GerdsenAI_AutoCoder](https://github.com/GerdsenAI/GerdsenAI_AutoCoder)
-- [Feature/tui integration polish](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/3) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Feature/agent intelligence enhancement](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/2) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [UI fixes, De-containerize](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/1) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Fix mobile](https://github.com/GerdsenAI-Admin/gerdsen-ai/pull/4) on [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai)
+- [Fix CI/CD linting and build issues](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/7) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Add comprehensive enhancements: Docker, examples, docs, and CI/CD](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/6) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Revise README for clarity and contributor invitation](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/5) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Add citation and acknowledgments to README](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/3) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Fix repository structure by removing unnecessary nesting level](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/2) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
 
 ### ⭐ Recent Stars
 
+- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) - Depth Anything 3
