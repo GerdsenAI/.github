@@ -22,23 +22,24 @@
 
 ### 🔧 Currently Working On
 
+- [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
+- [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier) - Frontier AI
 - [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
-- [GerdsenAI/AI-SDR](https://github.com/GerdsenAI/AI-SDR) - 
-- [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server) - Apple Silicon optimized Local LLM Server
-- [GerdsenAI/GerdsenAI_AutoCoder](https://github.com/GerdsenAI/GerdsenAI_AutoCoder) - 
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/AI-SDR](https://github.com/GerdsenAI/AI-SDR) - 
 
 ### 🚀 Latest Projects
 
+- [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier) - Frontier AI
 - [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
 
 ### 🔀 Recent Pull Requests
 
-- [Fix CI/CD linting and build issues](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/7) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Add comprehensive enhancements: Docker, examples, docs, and CI/CD](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/6) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Revise README for clarity and contributor invitation](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/5) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Add citation and acknowledgments to README](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/3) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Fix repository structure by removing unnecessary nesting level](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/2) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Optimize Jetson AGX performance to 30 FPS](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/13) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Phase 0: Add HIPAA-Grade Security Foundation](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier/pull/3) on [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier)
+- [refactor: Remove TODOs and placeholder code from production](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/17) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Feat/frontier ai platform](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier/pull/2) on [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier)
+- [Design frontier AI app with local cloud web integration](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier/pull/1) on [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier)
 
 ### ⭐ Recent Stars
 
