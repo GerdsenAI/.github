@@ -22,11 +22,11 @@
 
 ### 🔧 Currently Working On
 
+- [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT) - 
 - [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
+- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
 - [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier) - Frontier AI
 - [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
-- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
-- [GerdsenAI/AI-SDR](https://github.com/GerdsenAI/AI-SDR) - 
 
 ### 🚀 Latest Projects
 
@@ -35,11 +35,11 @@
 
 ### 🔀 Recent Pull Requests
 
-- [Optimize Jetson AGX performance to 30 FPS](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/13) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Phase 0: Add HIPAA-Grade Security Foundation](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier/pull/3) on [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier)
-- [refactor: Remove TODOs and placeholder code from production](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/17) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Feat/frontier ai platform](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier/pull/2) on [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier)
-- [Design frontier AI app with local cloud web integration](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier/pull/1) on [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier)
+- [Feat/human detection](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/4) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
+- [Fixes](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/3) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
+- [Initial testing](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/2) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
+- [Add cross-platform support for vision devices](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/1) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
+- [Llm testing](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/22) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
 
 ### ⭐ Recent Stars
 
