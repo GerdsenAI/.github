@@ -35,12 +35,13 @@
 
 ### 🔀 Recent Pull Requests
 
+- [fix: resolve CI failures for lint, test mocking, and Docker build](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/19) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Docker documentation update](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/18) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
 - [hotfix](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/16) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
 - [Feat/human detection](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/4) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
 - [Fixes](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/3) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
-- [Initial testing](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/2) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
-- [Add cross-platform support for vision devices](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/1) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
 
 ### ⭐ Recent Stars
 
+- [resibots/minitaur_sdk](https://github.com/resibots/minitaur_sdk) - extension of the official Ghost Robotics SDK
 - [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) - Depth Anything 3
