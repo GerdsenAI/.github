@@ -22,11 +22,11 @@
 
 ### 🔧 Currently Working On
 
-- [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
+- [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
 - [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT) - 
 - [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
-- [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier) - Frontier AI
 
 ### 🚀 Latest Projects
 
@@ -35,11 +35,11 @@
 
 ### 🔀 Recent Pull Requests
 
+- [refactor: Update services grid to use flexbox for responsive layout a…](https://github.com/GerdsenAI-Admin/gerdsen-ai/pull/11) on [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai)
+- [Fixes](https://github.com/GerdsenAI-Admin/gerdsen-ai/pull/10) on [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai)
+- [Fixes](https://github.com/GerdsenAI-Admin/gerdsen-ai/pull/9) on [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai)
+- [Side scroll](https://github.com/GerdsenAI-Admin/gerdsen-ai/pull/8) on [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai)
 - [fix: resolve CI failures for lint, test mocking, and Docker build](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/19) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Docker documentation update](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/18) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [hotfix](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/16) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Feat/human detection](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/4) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
-- [Fixes](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT/pull/3) on [GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT](https://github.com/GerdsenAI/GerdsenAI-ZED-and-Webcam-TTS-STT)
 
 ### ⭐ Recent Stars
 
