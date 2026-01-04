@@ -50,11 +50,11 @@ To democratize AI technology by building open-source tools and frameworks that m
 
 <div align="center">
 
-![GerdsenAI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerdsenAI-Admin&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true)
+![GerdsenAI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerdsenAI-Admin&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GerdsenAI-Admin&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GerdsenAI-Admin&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&cache_bust=2025-W52&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GerdsenAI-Admin&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&cache_bust=2026-W01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&langs_count=8)
 
 </div>
 
