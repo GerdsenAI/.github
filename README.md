@@ -22,11 +22,11 @@
 
 ### 🔧 Currently Working On
 
-- [GerdsenAI/GerdsenAI-YOLOv11-Devboard-Identifier](https://github.com/GerdsenAI/GerdsenAI-YOLOv11-Devboard-Identifier) - YOLOv11-based dev board identifier - detect Arduino, Raspberry Pi, ESP32, Seeed XIAO, Jetson boards via camera with real-time specs overlay. Automated training pipeline included.
-- [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
-- [GerdsenAI-Admin/GerdsenAI-moltbot-local](https://github.com/GerdsenAI-Admin/GerdsenAI-moltbot-local) - GerdsenAI fork of Clawd Bot/Molt Bot: &#34;Your own personal AI assistant. Any OS. Any Platform.&#34;
+- [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
-- [GerdsenAI-Admin/RC-Construction](https://github.com/GerdsenAI-Admin/RC-Construction) - 
+- [GerdsenAI/GerdsenAI-YOLOv11-Devboard-Identifier](https://github.com/GerdsenAI/GerdsenAI-YOLOv11-Devboard-Identifier) - YOLOv11-based dev board identifier - detect Arduino, Raspberry Pi, ESP32, Seeed XIAO, Jetson boards via camera with real-time specs overlay. Automated training pipeline included.
+- [GerdsenAI-Admin/GerdsenAI-moltbot-local](https://github.com/GerdsenAI-Admin/GerdsenAI-moltbot-local) - GerdsenAI fork of Clawd Bot/Molt Bot: &#34;Your own personal AI assistant. Any OS. Any Platform.&#34;
+- [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
 
 ### 🚀 Latest Projects
 
@@ -37,11 +37,11 @@
 
 ### 🔀 Recent Pull Requests
 
-- [codebase optimization](https://github.com/GerdsenAI-Admin/GerdsenAI-moltbot-local/pull/2) on [GerdsenAI-Admin/GerdsenAI-moltbot-local](https://github.com/GerdsenAI-Admin/GerdsenAI-moltbot-local)
-- [Initial Changes](https://github.com/GerdsenAI-Admin/GerdsenAI-moltbot-local/pull/1) on [GerdsenAI-Admin/GerdsenAI-moltbot-local](https://github.com/GerdsenAI-Admin/GerdsenAI-moltbot-local)
-- [refactor: Update services grid to use flexbox for responsive layout a…](https://github.com/GerdsenAI-Admin/gerdsen-ai/pull/11) on [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai)
-- [Fixes](https://github.com/GerdsenAI-Admin/gerdsen-ai/pull/10) on [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai)
-- [Fixes](https://github.com/GerdsenAI-Admin/gerdsen-ai/pull/9) on [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai)
+- [Tensor rt optimize](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/28) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Tensor rt testing](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/26) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Add shared-memory TRT support and docker/launch updates](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/25) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Tensor rt testing](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/24) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Bug fixes 01302026](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/23) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
 
 ### ⭐ Recent Stars
 
