@@ -22,26 +22,25 @@
 
 ### 🔧 Currently Working On
 
-- [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
+- [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac) - 
+- [GerdsenAI/GerdsenAI-Agent](https://github.com/GerdsenAI/GerdsenAI-Agent) - Multi-agent system for Claude Code CLI with 15 specialized agents, Socratic Method reasoning, and tiered Leadership/Worker hierarchy
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
 - [GerdsenAI/GerdsenAI-YOLOv11-Devboard-Identifier](https://github.com/GerdsenAI/GerdsenAI-YOLOv11-Devboard-Identifier) - YOLOv11-based dev board identifier - detect Arduino, Raspberry Pi, ESP32, Seeed XIAO, Jetson boards via camera with real-time specs overlay. Automated training pipeline included.
-- [GerdsenAI-Admin/GerdsenAI-moltbot-local](https://github.com/GerdsenAI-Admin/GerdsenAI-moltbot-local) - GerdsenAI fork of Clawd Bot/Molt Bot: &#34;Your own personal AI assistant. Any OS. Any Platform.&#34;
-- [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
 
 ### 🚀 Latest Projects
 
-- [GerdsenAI-Admin/GerdsenAI-moltbot-local](https://github.com/GerdsenAI-Admin/GerdsenAI-moltbot-local) - GerdsenAI fork of Clawd Bot/Molt Bot: &#34;Your own personal AI assistant. Any OS. Any Platform.&#34;
 - [GerdsenAI-Admin/RC-Construction](https://github.com/GerdsenAI-Admin/RC-Construction) - 
 - [GerdsenAI-Admin/GerdsenAI-Frontier](https://github.com/GerdsenAI-Admin/GerdsenAI-Frontier) - Frontier AI
 - [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
 
 ### 🔀 Recent Pull Requests
 
-- [Tensor rt optimize](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/28) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Tensor rt testing](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/26) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Add shared-memory TRT support and docker/launch updates](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/25) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Tensor rt testing](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/24) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
-- [Bug fixes 01302026](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper/pull/23) on [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper)
+- [Expand](https://github.com/GerdsenAI/OptiMac/pull/6) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
+- [fix(build): professional DMG installer with drag-to-Applications layout](https://github.com/GerdsenAI/OptiMac/pull/5) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
+- [Expand](https://github.com/GerdsenAI/OptiMac/pull/4) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
+- [build: switch to PyInstaller, add .icns icon, update .gitignore](https://github.com/GerdsenAI/OptiMac/pull/3) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
+- [Expand](https://github.com/GerdsenAI/OptiMac/pull/2) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
 
 ### ⭐ Recent Stars
 
