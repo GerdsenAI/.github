@@ -22,11 +22,11 @@
 
 ### 🔧 Currently Working On
 
+- [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
 - [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac) - 
-- [GerdsenAI/GerdsenAI-Agent](https://github.com/GerdsenAI/GerdsenAI-Agent) - Multi-agent system for Claude Code CLI with 15 specialized agents, Socratic Method reasoning, and tiered Leadership/Worker hierarchy
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/GerdsenAI-Agent](https://github.com/GerdsenAI/GerdsenAI-Agent) - Multi-agent system for Claude Code CLI with 15 specialized agents, Socratic Method reasoning, and tiered Leadership/Worker hierarchy
 - [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
-- [GerdsenAI/GerdsenAI-YOLOv11-Devboard-Identifier](https://github.com/GerdsenAI/GerdsenAI-YOLOv11-Devboard-Identifier) - YOLOv11-based dev board identifier - detect Arduino, Raspberry Pi, ESP32, Seeed XIAO, Jetson boards via camera with real-time specs overlay. Automated training pipeline included.
 
 ### 🚀 Latest Projects
 
@@ -36,11 +36,11 @@
 
 ### 🔀 Recent Pull Requests
 
+- [V2: Table overflow fix and interactive setup script](https://github.com/GerdsenAI/GerdsenAI_Document_Builder/pull/2) on [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder)
+- [fix: remove unused f-string prefix in live_mcp_test.py](https://github.com/GerdsenAI/OptiMac/pull/8) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
+- [Expand](https://github.com/GerdsenAI/OptiMac/pull/7) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
 - [Expand](https://github.com/GerdsenAI/OptiMac/pull/6) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
 - [fix(build): professional DMG installer with drag-to-Applications layout](https://github.com/GerdsenAI/OptiMac/pull/5) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
-- [Expand](https://github.com/GerdsenAI/OptiMac/pull/4) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
-- [build: switch to PyInstaller, add .icns icon, update .gitignore](https://github.com/GerdsenAI/OptiMac/pull/3) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
-- [Expand](https://github.com/GerdsenAI/OptiMac/pull/2) on [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac)
 
 ### ⭐ Recent Stars
 
