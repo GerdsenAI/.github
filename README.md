@@ -23,9 +23,9 @@
 ### 🔧 Currently Working On
 
 - [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server) - Apple Silicon optimized Local LLM Server
+- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
 - [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin) - Claude Code plugin for professional Markdown-to-PDF document creation powered by GerdsenAI Document Builder
 - [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
-- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
 - [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac) - 
 
 ### 🚀 Latest Projects
@@ -36,11 +36,11 @@
 
 ### 🔀 Recent Pull Requests
 
+- [Phase 3: 80% test coverage &#43; Playwright E2E](https://github.com/GerdsenAI/Impetus-LLM-Server/pull/11) on [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server)
 - [test(e2e): comprehensive pytest E2E suite with real MLX inference](https://github.com/GerdsenAI/Impetus-LLM-Server/pull/10) on [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server)
 - [fix(ci): remove broken build-app.yml reference and redundant tsc step](https://github.com/GerdsenAI/Impetus-LLM-Server/pull/9) on [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server)
 - [feat: v2.0 Phases 1-3 — Embeddings, RAG, Quality Hardening](https://github.com/GerdsenAI/Impetus-LLM-Server/pull/8) on [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server)
 - [Add using-superpowers skill and normalize frontmatter](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin/pull/11) on [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin)
-- [Add Claude settings &amp; robust venv bootstrap](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin/pull/10) on [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin)
 
 ### ⭐ Recent Stars
 
