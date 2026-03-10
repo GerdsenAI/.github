@@ -2,7 +2,7 @@
 
 # Welcome to GerdsenAI
 
-### *Pioneering Artificial Intelligence Solutions*
+### *Frontier Artificial Intelligence Solutions*
 
 [![Website](https://img.shields.io/badge/Website-gerdsen.ai-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gerdsen.ai)
 [![Email](https://img.shields.io/badge/Email-info@gerdsen.ai-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@gerdsen.ai)
@@ -60,21 +60,6 @@ To democratize AI technology by building open-source tools and frameworks that m
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **AutoCoder** | AI-powered code generation and automation | Python, OpenAI API |
-| 📄 **Document Builder** | Intelligent document generation with branded templates | Python, Markdown, PDF |
-| 🔗 **Linked Files** | Smart file relationship management system | Python, Graph DB |
-| 🌐 **Main Website** | Official GerdsenAI web presence | TypeScript, React, Builder.io |
-
-</div>
-
----
-
 ### Getting Started:
 
 1. Browse our [repositories](https://github.com/orgs/GerdsenAI/repositories)
@@ -99,10 +84,6 @@ To democratize AI technology by building open-source tools and frameworks that m
 ---
 
 <div align="center">
-
-### ⚡ *Building the Future with AI* ⚡
-
-*Made with ❤️ by the GerdsenAI Team*
 
 </div>
 
