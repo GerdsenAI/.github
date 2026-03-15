@@ -22,11 +22,11 @@
 
 ### 🔧 Currently Working On
 
-- [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server) - Apple Silicon optimized Local LLM Server
-- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
 - [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin) - Claude Code plugin for professional Markdown-to-PDF document creation powered by GerdsenAI Document Builder
-- [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
-- [GerdsenAI/OptiMac](https://github.com/GerdsenAI/OptiMac) - 
+- [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper](https://github.com/GerdsenAI/GerdsenAI-Depth-Anything-3-ROS2-Wrapper) - ROS2 wrapper for Depth Anything 3 (https://github.com/ByteDance-Seed/Depth-Anything-3)
+- [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server) - Apple Silicon optimized Local LLM Server
 
 ### 🚀 Latest Projects
 
@@ -36,11 +36,11 @@
 
 ### 🔀 Recent Pull Requests
 
+- [Remove TUI and enhanced console components](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/23) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [V0.6.1 code review fixes](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin/pull/15) on [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin)
+- [v0.6.1: Code review fixes, error handling, Vector DB reporting](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin/pull/14) on [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin)
 - [Phase 3: 80% test coverage &#43; Playwright E2E](https://github.com/GerdsenAI/Impetus-LLM-Server/pull/11) on [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server)
 - [test(e2e): comprehensive pytest E2E suite with real MLX inference](https://github.com/GerdsenAI/Impetus-LLM-Server/pull/10) on [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server)
-- [fix(ci): remove broken build-app.yml reference and redundant tsc step](https://github.com/GerdsenAI/Impetus-LLM-Server/pull/9) on [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server)
-- [feat: v2.0 Phases 1-3 — Embeddings, RAG, Quality Hardening](https://github.com/GerdsenAI/Impetus-LLM-Server/pull/8) on [GerdsenAI/Impetus-LLM-Server](https://github.com/GerdsenAI/Impetus-LLM-Server)
-- [Add using-superpowers skill and normalize frontmatter](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin/pull/11) on [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin)
 
 ### ⭐ Recent Stars
 
