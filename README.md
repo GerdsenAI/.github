@@ -22,8 +22,8 @@
 
 ### 🔧 Currently Working On
 
-- [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI-Admin/gerdsen-ai](https://github.com/GerdsenAI-Admin/gerdsen-ai) - Website
 - [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin) - Claude Code plugin for professional Markdown-to-PDF document creation powered by GerdsenAI Document Builder
 - [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
 - [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
@@ -44,6 +44,7 @@
 
 ### ⭐ Recent Stars
 
+- [Mews/pyrobloxbot](https://github.com/Mews/pyrobloxbot) - A python library to control the roblox character and interact with game ui through keyboard inputs
 - [Neobotics-Foundation-Inc/neoracer_ros2_driver](https://github.com/Neobotics-Foundation-Inc/neoracer_ros2_driver) - Backend ROS2 driver for neoracer v1 with support for OSRbot software stack in collaboration with Seeed Studio
 - [autowarefoundation/autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self-driving car stack - fully open-source ADAS and autonomous driving system
 - [resibots/minitaur_sdk](https://github.com/resibots/minitaur_sdk) - extension of the official Ghost Robotics SDK
