@@ -23,21 +23,21 @@
 ### 🔧 Currently Working On
 
 - [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
-- [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools) - GerdsenAI Agentic Devtools — cross-platform agentic toolkit: Markdown→PDF, deep research, red-team review, sprint execution, vector DB, and a project scaffolder. Usable from Claude, Codex, Copilot, VS Code, Cursor, Gemini CLI, OpenCode via MCP &#43; Agent Skills; local inference via Ollama/vLLM/LM Studio.
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools) - GerdsenAI Agentic Devtools — cross-platform agentic toolkit: Markdown→PDF, deep research, red-team review, sprint execution, vector DB, and a project scaffolder. Usable from Claude, Codex, Copilot, VS Code, Cursor, Gemini CLI, OpenCode via MCP &#43; Agent Skills; local inference via Ollama/vLLM/LM Studio.
 - [GerdsenAI/gerdsen-ai](https://github.com/GerdsenAI/gerdsen-ai) - Website
-- [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
+- [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin) - Claude Code plugin for professional Markdown-to-PDF document creation powered by GerdsenAI Document Builder
 
 ### 🚀 Latest Projects
 
 
 ### 🔀 Recent Pull Requests
 
-- [Add incremental re-indexing to the per-repo vector index](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/34) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Offer local &#43; Tailscale discovery during first-run setup](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/33) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Route claude-* models through the Anthropic provider without a persona](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/32) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Wire semantic retrieval &#43; persona provider routing into the agent](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/31) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Fix CI: format persona.py](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/30) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [test: robust --help assertion (fix CI on main)](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/49) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Fleet-dispatch: TUI mode-sync, headless -p, bearer bridge, entry-point fix](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/48) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [docs: the dream &#43; handoff for local Claude (.claude/DREAM.md, HANDOFF.md)](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/47) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Wire the agentic tool loop into the agent (default ON, fallback retained)](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/46) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Model-compat parsing: Hermes tags &#43; &amp;lt;think&amp;gt; &#43; raw-text recovery](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/45) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
 
 ### ⭐ Recent Stars
 
