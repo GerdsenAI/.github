@@ -33,11 +33,11 @@
 
 ### 🔀 Recent Pull Requests
 
-- [test: robust --help assertion (fix CI on main)](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/49) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Fleet-dispatch: TUI mode-sync, headless -p, bearer bridge, entry-point fix](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/48) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [docs: the dream &#43; handoff for local Claude (.claude/DREAM.md, HANDOFF.md)](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/47) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Wire the agentic tool loop into the agent (default ON, fallback retained)](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/46) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Model-compat parsing: Hermes tags &#43; &amp;lt;think&amp;gt; &#43; raw-text recovery](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/45) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Verification harness, sub-agent delegation, and /doctor](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/58) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Expose MCP servers as agent-loop tools (optional mcp SDK extra)](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/57) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Type the measure_performance decorator; gate core-loop mypy in CI](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/56) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Add extensive TUI error/edge tests; render system_info](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/55) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [Stream the agent loop into the TUI with live thinking &#43; tool events](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/54) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
 
 ### ⭐ Recent Stars
 
