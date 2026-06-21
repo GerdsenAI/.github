@@ -22,8 +22,8 @@
 
 ### 🔧 Currently Working On
 
-- [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
 - [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools) - GerdsenAI Agentic Devtools — cross-platform agentic toolkit: Markdown→PDF, deep research, red-team review, sprint execution, vector DB, and a project scaffolder. Usable from Claude, Codex, Copilot, VS Code, Cursor, Gemini CLI, OpenCode via MCP &#43; Agent Skills; local inference via Ollama/vLLM/LM Studio.
 - [GerdsenAI/gerdsen-ai](https://github.com/GerdsenAI/gerdsen-ai) - Website
 - [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin) - Claude Code plugin for professional Markdown-to-PDF document creation powered by GerdsenAI Document Builder
