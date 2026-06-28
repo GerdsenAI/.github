@@ -22,22 +22,22 @@
 
 ### 🔧 Currently Working On
 
+- [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools) - GerdsenAI Agentic Devtools — cross-platform agentic toolkit: Markdown→PDF, deep research, red-team review, sprint execution, vector DB, and a project scaffolder. Usable from Claude, Codex, Copilot, VS Code, Cursor, Gemini CLI, OpenCode via MCP &#43; Agent Skills; local inference via Ollama/vLLM/LM Studio.
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
 - [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
-- [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools) - GerdsenAI Agentic Devtools — cross-platform agentic toolkit: Markdown→PDF, deep research, red-team review, sprint execution, vector DB, and a project scaffolder. Usable from Claude, Codex, Copilot, VS Code, Cursor, Gemini CLI, OpenCode via MCP &#43; Agent Skills; local inference via Ollama/vLLM/LM Studio.
 - [GerdsenAI/gerdsen-ai](https://github.com/GerdsenAI/gerdsen-ai) - Website
-- [GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin](https://github.com/GerdsenAI/GerdsenAI-Markdown-To-PDF-Suite-Claude-Plugin) - Claude Code plugin for professional Markdown-to-PDF document creation powered by GerdsenAI Document Builder
+- [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
 
 ### 🚀 Latest Projects
 
 
 ### 🔀 Recent Pull Requests
 
-- [Verification harness, sub-agent delegation, and /doctor](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/58) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Expose MCP servers as agent-loop tools (optional mcp SDK extra)](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/57) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Type the measure_performance decorator; gate core-loop mypy in CI](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/56) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Add extensive TUI error/edge tests; render system_info](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/55) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
-- [Stream the agent loop into the TUI with live thinking &#43; tool events](https://github.com/GerdsenAI/GerdsenAI-CLI/pull/54) on [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI)
+- [feat(session): multi-session rail &#43; read-only timeline &#43; model enrichment (1.15.0, #34)](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools/pull/44) on [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools)
+- [feat(session): templates/session scaffold &#43; AI provider/vector tab (1.14.0, #34)](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools/pull/43) on [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools)
+- [feat(session): gerdsen provider-sync CLI &#43; 4318 bridge daemon (1.13.0, #34)](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools/pull/42) on [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools)
+- [docs: describe the dashboard&#39;s agentic-observability UX (README &#43; CLAUDE.md)](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools/pull/41) on [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools)
+- [fix: completeness-review follow-ups (1.12.1) — Replay regression &#43; 2 dashboard bugs &#43; missed agent &#43; doc/DOX gaps](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools/pull/40) on [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools)
 
 ### ⭐ Recent Stars
 
