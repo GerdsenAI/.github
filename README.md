@@ -22,8 +22,8 @@
 
 ### 🔧 Currently Working On
 
-- [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools) - GerdsenAI Agentic Devtools — cross-platform agentic toolkit: Markdown→PDF, deep research, red-team review, sprint execution, vector DB, and a project scaffolder. Usable from Claude, Codex, Copilot, VS Code, Cursor, Gemini CLI, OpenCode via MCP &#43; Agent Skills; local inference via Ollama/vLLM/LM Studio.
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
+- [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools) - GerdsenAI Agentic Devtools — cross-platform agentic toolkit: Markdown→PDF, deep research, red-team review, sprint execution, vector DB, and a project scaffolder. Usable from Claude, Codex, Copilot, VS Code, Cursor, Gemini CLI, OpenCode via MCP &#43; Agent Skills; local inference via Ollama/vLLM/LM Studio.
 - [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
 - [GerdsenAI/gerdsen-ai](https://github.com/GerdsenAI/gerdsen-ai) - Website
 - [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
@@ -41,8 +41,8 @@
 
 ### ⭐ Recent Stars
 
+- [Neobotics-Foundation-Inc/neoracer-v2](https://github.com/Neobotics-Foundation-Inc/neoracer-v2) - 3D-printable open-source chassis for autonomous racing in robotics education and research
 - [LawlessIntegrayshun30/Nanocode-v1.0](https://github.com/LawlessIntegrayshun30/Nanocode-v1.0) - Nanocode&#39;s open source layer
 - [LawlessIntegrayshun30/Nanocode_OG1](https://github.com/LawlessIntegrayshun30/Nanocode_OG1) - 
 - [Mews/pyrobloxbot](https://github.com/Mews/pyrobloxbot) - A python library to control the roblox character and interact with game ui through keyboard inputs
 - [Neobotics-Foundation-Inc/neoracer_ros2_driver](https://github.com/Neobotics-Foundation-Inc/neoracer_ros2_driver) - Backend ROS2 driver for neoracer v1 with support for OSRbot software stack in collaboration with Seeed Studio
-- [autowarefoundation/autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self-driving car stack - fully open-source ADAS and autonomous driving system
