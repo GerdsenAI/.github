@@ -22,11 +22,11 @@
 
 ### 🔧 Currently Working On
 
+- [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
 - [GerdsenAI/.github](https://github.com/GerdsenAI/.github) - 
 - [GerdsenAI/GerdsenAI-Agentic-Devtools](https://github.com/GerdsenAI/GerdsenAI-Agentic-Devtools) - GerdsenAI Agentic Devtools — cross-platform agentic toolkit: Markdown→PDF, deep research, red-team review, sprint execution, vector DB, and a project scaffolder. Usable from Claude, Codex, Copilot, VS Code, Cursor, Gemini CLI, OpenCode via MCP &#43; Agent Skills; local inference via Ollama/vLLM/LM Studio.
 - [GerdsenAI/GerdsenAI-CLI](https://github.com/GerdsenAI/GerdsenAI-CLI) - 
 - [GerdsenAI/gerdsen-ai](https://github.com/GerdsenAI/gerdsen-ai) - Website
-- [GerdsenAI/GerdsenAI_Document_Builder](https://github.com/GerdsenAI/GerdsenAI_Document_Builder) - Markdown to PDF document builder, includes branded cover page
 
 ### 🚀 Latest Projects
 
